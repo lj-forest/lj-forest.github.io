@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Jie Li"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D of Cyberspace Security"
+  bio    : "Ph.D Student of Cyberspace Security"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
