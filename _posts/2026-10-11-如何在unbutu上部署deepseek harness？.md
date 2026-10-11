@@ -1,9 +1,9 @@
-```
+---
 layout: post
-title: "如何在unbutu上部署deepseek harness？"
+title: "如何在ubuntu上部署deepseek harness?"
 date: 2026-10-11 12:03:00 +0800
 categories: 教程
-```
+---
 
 # 如何在unbutu上部署deepseek harness？
 
