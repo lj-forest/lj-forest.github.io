@@ -9,7 +9,7 @@ categories: 教程
 
 问题：
 
-<img src="E:\lj-forest.github.io\assets\images\my-post\image-20261011180516976.png" alt="image-20261011180516976" style="zoom:50%;" />
+<img src="..\assets\images\my-post\image-20261011180516976.png" alt="image-20261011180516976" style="zoom:50%;" />
 
 ### 🔧 第一步：关闭 Windows 功能中的冲突组件
 
